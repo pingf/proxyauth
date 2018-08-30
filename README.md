@@ -1,1 +1,1 @@
-# simpleauth
+# proxyauth
